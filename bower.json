@@ -1,0 +1,19 @@
+{
+  "name": "kodomo-sites",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alemata/kodomo-sites",
+  "authors": [
+    "Alejandro Mataloni <amataloni@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
